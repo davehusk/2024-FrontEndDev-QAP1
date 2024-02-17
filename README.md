@@ -1,4 +1,8 @@
-# QAP Project - "Explore Monarch Butterflies" Website
+# QAP Project 1 - "Explore Monarch Butterflies" Website
+
+This is for Keyin College, Quantitive Assesment Practice for Software Developer
+
+Feb 2024
 
 ## Overview
 
@@ -13,7 +17,7 @@ This repository contains the source code for a website designed to educate peopl
 
 ## Usage Instructions
 
-To view the website locally, download the entire repo and open the `index.html` file using a compatible browser. Alternatively, visit https://www.mywebsiteurl.com to explore the live version.
+To view the website locally, download the entire repo and open the `index.html` file using a compatible browser. 
 
 Please note that some multimedia components require internet connectivity to function correctly.
 
